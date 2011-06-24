@@ -1,4 +1,4 @@
-require 'fastercsv'
+require 'csv'
 require 'tempfile'
 
 class MultipleIssuesForUniqueValue < Exception
